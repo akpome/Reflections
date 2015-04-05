@@ -1,0 +1,2 @@
+is git reset the same as git rm --cache Mar 8
+new line added
