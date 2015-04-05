@@ -1,3 +1,5 @@
 lesson 1 or 2 in the staging area Feb 11
 
 Sublime doesn't come up when I start Git Jan 12
+
+second new line
